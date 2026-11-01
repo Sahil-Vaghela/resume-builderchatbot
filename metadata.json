@@ -1,0 +1,6 @@
+{
+  "name": "ResumeAI - AI-Powered Resume Builder Chatbot",
+  "description": "Intelligent AI resume builder chatbot that helps you craft professional, ATS-friendly resumes through natural conversation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
